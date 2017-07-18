@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="GB2312" standalone="no"?>
+<testsuite errors="0" failures="0" hostname="N12275D1" id="0" name="AddFollow_Friends" package="1472114044647" tests="1" time="83.0" timestamp="20160825 16:32:37">
+<testcase classname="ckt.Testcase.FriendsCase" name="1472113824236_1_1" time="83.0"/>
+</testsuite>
